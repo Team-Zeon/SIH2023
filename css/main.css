@@ -201,7 +201,7 @@ nav .container-fluid .navbar-brand img{
   justify-content: center;
   align-items: center;
   padding: 15px;
-  background-image: url(/Login_v1/images/bg.png);
+  background-image: url(Login_v1/images/bg.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
